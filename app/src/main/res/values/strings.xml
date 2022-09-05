@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">TheMovie</string>
+
+    <string name="storyline">Storyline</string>
+    <string name="cast">Cast</string>
+    <string name="see_all">See All</string>
+    <string name="leave_review">Leave a review</string>
+    <string name="book_your_ticket">Book your ticket</string>
 </resources>
