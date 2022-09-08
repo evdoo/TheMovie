@@ -1,4 +1,4 @@
-package evdoo.themovie.activities
+package evdoo.themovie.fragments
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import evdoo.themovie.R
 
-class FragmentMoviesDetails: Fragment() {
+class MoviesDetailsFragment: Fragment() {
 
     override fun onCreateView(
         inflater: LayoutInflater,
