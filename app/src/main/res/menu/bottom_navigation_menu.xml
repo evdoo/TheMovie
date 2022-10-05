@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/movies"
+        android:enabled="true"
+        android:title="@string/movies_label"
+        android:icon="@drawable/ic_movies"/>
+    <item
+        android:id="@+id/tickets"
+        android:enabled="true"
+        android:title="@string/tickets_label"
+        android:icon="@drawable/ic_tickets"/>
+    <item
+        android:id="@+id/cinemas"
+        android:enabled="true"
+        android:title="@string/cinemas_label"
+        android:icon="@drawable/ic_cinemas"/>
+    <item
+        android:id="@+id/favourite"
+        android:enabled="true"
+        android:title="@string/favourite_label"
+        android:icon="@drawable/ic_favourite"/>
+    <item
+        android:id="@+id/profile"
+        android:enabled="true"
+        android:title="@string/profile_label"
+        android:icon="@drawable/ic_profile"/>
+</menu>

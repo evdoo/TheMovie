@@ -4,8 +4,10 @@
     <gradient
         android:type="radial"
         android:gradientRadius="300dp"
-        android:startColor="@color/btn_gradient_grey_start_color"
-        android:endColor="@color/btn_gradient_grey_finish_color" />
+        android:startColor="@color/card_gradient_1_color"
+        android:endColor="@color/card_gradient_2_color" />
     <corners
-        android:radius="25dp"/>
+        android:radius="7dp"/>
+    <stroke android:color="@color/card_stroke_color"
+        android:width="1dp"/>
 </shape>

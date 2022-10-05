@@ -4,16 +4,32 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/kseli/StudioProjects/TheMovie/app/src/main/res/drawable-v24/btn_background_gradient_gray.xml" value="0.2705" />
+        <entry key="..\:/Users/kseli/StudioProjects/TheMovie/app/src/main/res/drawable-v24/icon_gradient.xml" value="0.298" />
+        <entry key="..\:/Users/kseli/StudioProjects/TheMovie/app/src/main/res/drawable/age_rating_background.xml" value="0.36" />
         <entry key="..\:/Users/kseli/StudioProjects/TheMovie/app/src/main/res/drawable/btn_background.xml" value="0.3585" />
         <entry key="..\:/Users/kseli/StudioProjects/TheMovie/app/src/main/res/drawable/btn_background_gradient.xml" value="0.3585" />
+        <entry key="..\:/Users/kseli/StudioProjects/TheMovie/app/src/main/res/drawable/btn_background_gradient_pink.xml" value="0.298" />
+        <entry key="..\:/Users/kseli/StudioProjects/TheMovie/app/src/main/res/drawable/ic_cinemas.xml" value="0.36" />
+        <entry key="..\:/Users/kseli/StudioProjects/TheMovie/app/src/main/res/drawable/ic_favourite.xml" value="0.36" />
+        <entry key="..\:/Users/kseli/StudioProjects/TheMovie/app/src/main/res/drawable/ic_launcher_background.xml" value="0.189" />
+        <entry key="..\:/Users/kseli/StudioProjects/TheMovie/app/src/main/res/drawable/ic_location.xml" value="0.298" />
+        <entry key="..\:/Users/kseli/StudioProjects/TheMovie/app/src/main/res/drawable/ic_movies.xml" value="0.36" />
+        <entry key="..\:/Users/kseli/StudioProjects/TheMovie/app/src/main/res/drawable/ic_profile.xml" value="0.36" />
+        <entry key="..\:/Users/kseli/StudioProjects/TheMovie/app/src/main/res/drawable/ic_search.xml" value="0.298" />
+        <entry key="..\:/Users/kseli/StudioProjects/TheMovie/app/src/main/res/drawable/ic_tickets.xml" value="0.36" />
         <entry key="..\:/Users/kseli/StudioProjects/TheMovie/app/src/main/res/drawable/mask_gradient.xml" value="0.2985" />
+        <entry key="..\:/Users/kseli/StudioProjects/TheMovie/app/src/main/res/drawable/movie_card_gradient.xml" value="0.36" />
         <entry key="..\:/Users/kseli/StudioProjects/TheMovie/app/src/main/res/layout/activity_main.xml" value="0.31261261261261264" />
         <entry key="..\:/Users/kseli/StudioProjects/TheMovie/app/src/main/res/layout/activity_movie_details.xml" value="0.31351351351351353" />
+        <entry key="..\:/Users/kseli/StudioProjects/TheMovie/app/src/main/res/layout/card_film.xml" value="0.3643122676579926" />
+        <entry key="..\:/Users/kseli/StudioProjects/TheMovie/app/src/main/res/layout/fragment_movie_details.xml" value="0.31351351351351353" />
         <entry key="..\:/Users/kseli/StudioProjects/TheMovie/app/src/main/res/layout/fragment_movies_details.xml" value="0.31261261261261264" />
+        <entry key="..\:/Users/kseli/StudioProjects/TheMovie/app/src/main/res/layout/fragment_movies_list.xml" value="0.31351351351351353" />
+        <entry key="..\:/Users/kseli/StudioProjects/TheMovie/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.31261261261261264" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

@@ -16,6 +16,7 @@
     <color name="text_color_2">#C4C4C4</color>
     <color name="text_color_3">#FF3466</color>
     <color name="text_color_4">#6D6D80</color>
+    <color name="text_color_5">#565665</color>
 
     <color name="rating_bar_inactive">#6D6D80</color>
 
@@ -24,4 +25,15 @@
 
     <color name="btn_gradient_grey_start_color">#212130</color>
     <color name="btn_gradient_grey_finish_color">#4E4E63FD</color>
+
+    <color name="icon_gradient_start_color">#FFFF4D79</color>
+    <color name="icon_gradient_finish_color">#FFFF3365</color>
+
+    <color name="icon_color">#6D6D80</color>
+    <color name="bn_default_color">#717187</color>
+
+    <color name="card_stroke_color">#636375</color>
+
+    <color name="card_gradient_1_color">#404056</color>
+    <color name="card_gradient_2_color">#222232</color>
 </resources>
